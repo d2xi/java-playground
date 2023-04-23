@@ -1,4 +1,4 @@
-package main.java.playground.gof_patterns.composite;
+package playground.gof_patterns.composite.file_system_hierarchy;
 
 import java.util.LinkedList;
 import java.util.List;

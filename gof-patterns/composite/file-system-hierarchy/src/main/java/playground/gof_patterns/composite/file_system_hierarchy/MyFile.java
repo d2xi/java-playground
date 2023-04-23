@@ -1,10 +1,8 @@
-package main.java.playground.gof_patterns.composite;
+package  playground.gof_patterns.composite.file_system_hierarchy;
 
-import java.beans.IndexedPropertyChangeEvent;
-
-public class File extends Component{
+public class MyFile extends Component{
     
-    public File (int id) {
+    public MyFile (int id) {
         super(id);
     }
 

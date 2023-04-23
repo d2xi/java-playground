@@ -1,4 +1,4 @@
-package main.java.playground.gof_patterns.composite;
+package playground.gof_patterns.composite.file_system_hierarchy;
 
 public abstract class Component {
     private int id;
@@ -23,3 +23,4 @@ public abstract class Component {
         }
     }
 }
+
