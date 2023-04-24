@@ -1,0 +1,2 @@
+Task:
+Implement a simple zoo simulation where animals are represented as elements, and a veterinarian visits the animals using the Visitor pattern. The zoo has three types of animals: Lion, Giraffe, and Monkey. The veterinarian should be able to perform different operations on each animal, such as checking their health, feeding them, and playing with them.
