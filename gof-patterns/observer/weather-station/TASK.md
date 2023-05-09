@@ -1,0 +1,1 @@
+Task: Implement a weather station application that notifies multiple displays when the weather conditions change.
