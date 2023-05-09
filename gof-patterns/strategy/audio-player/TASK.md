@@ -1,0 +1,1 @@
+You have been tasked with developing a simple music player application that can play different audio formats such as mp3, wav, and flac.
